@@ -1,2 +1,2 @@
 # Resume
-This repo contains my latest resume/cv.
+This repo contains my latest resume/cv
